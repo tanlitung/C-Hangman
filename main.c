@@ -1,6 +1,6 @@
 /*=====================================================================================
 
-									 HANGMAN
+					HANGMAN
 
 ---------------------------------------------------------------------------------------
 
@@ -488,7 +488,7 @@ int main()
 					line=rand()%48;
 				}
 				
-				if ((fptr = fopen("/hangman/words.txt","r"))==NULL)//chage the path of the "word.txt" file
+				if ((fptr = fopen("/hangman/words.txt","r"))==NULL)//chage the path of the "words.txt" file
 				{
 					exit(1);
 				}
