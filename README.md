@@ -14,3 +14,5 @@ $ cd C-Hangman
 5. "gfx_mod.c" is a modified version of the original gfx library (retrieved from "https://www3.nd.edu/~dthain/courses/cse20211/fall2013/gfx/").
 
 Credit to: "https://www3.nd.edu/~dthain/courses/cse20211/fall2013/gfx/" for the gfx library.
+
+The gfx library runs on Linux machines using the X11 Window System. (You may be able to run it on a Mac, but it won't work on Windows.)
