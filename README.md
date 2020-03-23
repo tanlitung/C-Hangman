@@ -7,6 +7,9 @@ Hangman is a game where players needs to guess a word in a given number of trial
 4. The "data.txt" files is used to store all the historical points.
 5. "gfx_mod.c" is a modified version of the original gfx library (retrieved from "https://www3.nd.edu/~dthain/courses/cse20211/fall2013/gfx/").
 
+#To clone this repository:
+$ git clone https://github.com/tanlitung388/C-Hangman.git
+
 Credit to: "https://www3.nd.edu/~dthain/courses/cse20211/fall2013/gfx/" for the gfx library
 
 If you need any help regarding this project, kindly drop me an email at tanlitung388@gmail.com.
