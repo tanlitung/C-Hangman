@@ -16,3 +16,6 @@ $ cd C-Hangman
 Credit to: "https://www3.nd.edu/~dthain/courses/cse20211/fall2013/gfx/" for the gfx library.
 
 The gfx library runs on Linux machines using the X11 Window System. (You may be able to run it on a Mac, but it won't work on Windows.)
+
+# Preview
+![alt text](https://github.com/tanlitung388/C-Hangman/raw/master/hangman.mp4 "Preview")
