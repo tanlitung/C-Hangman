@@ -4,7 +4,7 @@ Hangman is a game where players needs to guess a word in a given number of trial
 # Setup
 Clone or download the repository.
 ```
-$ git clone https://github.com/tanlitung388/C-Hangman.git
+$ git clone https://github.com/tanlitung/C-Hangman.git
 $ cd C-Hangman
 ```
 1. There are a few line of code need to be changed before you can use the code (stated at the top part of "main.c" file).
@@ -18,4 +18,4 @@ Credit to: "https://www3.nd.edu/~dthain/courses/cse20211/fall2013/gfx/" for the 
 The gfx library runs on Linux machines using the X11 Window System. (You may be able to run it on a Mac, but it won't work on Windows.)
 
 # Preview
-![alt text](https://github.com/tanlitung388/C-Hangman/raw/master/hangman.gif "Preview")
+![alt text](https://github.com/tanlitung/C-Hangman/raw/master/hangman.gif "Preview")
